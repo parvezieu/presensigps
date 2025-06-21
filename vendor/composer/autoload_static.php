@@ -538,6 +538,7 @@ class ComposerStaticInitb4185aa2b7e69f3d2f89a6b19ce0a6fa
         'App\\Http\\Controllers\\KaryawanController' => __DIR__ . '/../..' . '/app/Http/Controllers/KaryawanController.php',
         'App\\Http\\Controllers\\KonfigurasiController' => __DIR__ . '/../..' . '/app/Http/Controllers/KonfigurasiController.php',
         'App\\Http\\Controllers\\PresensiController' => __DIR__ . '/../..' . '/app/Http/Controllers/PresensiController.php',
+        'App\\Http\\Controllers\\UserController' => __DIR__ . '/../..' . '/app/Http/Controllers/UserController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',

@@ -15,6 +15,7 @@ return array(
     'App\\Http\\Controllers\\KaryawanController' => $baseDir . '/app/Http/Controllers/KaryawanController.php',
     'App\\Http\\Controllers\\KonfigurasiController' => $baseDir . '/app/Http/Controllers/KonfigurasiController.php',
     'App\\Http\\Controllers\\PresensiController' => $baseDir . '/app/Http/Controllers/PresensiController.php',
+    'App\\Http\\Controllers\\UserController' => $baseDir . '/app/Http/Controllers/UserController.php',
     'App\\Http\\Kernel' => $baseDir . '/app/Http/Kernel.php',
     'App\\Http\\Middleware\\Authenticate' => $baseDir . '/app/Http/Middleware/Authenticate.php',
     'App\\Http\\Middleware\\EncryptCookies' => $baseDir . '/app/Http/Middleware/EncryptCookies.php',
